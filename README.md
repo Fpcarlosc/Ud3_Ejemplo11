@@ -1,4 +1,5 @@
 # Ud3_Ejemplo11
+_Ejemplo 11 de la Unidad 3._ Paso de objetos entre Actividades.
 
 Vamos a enviar objetos desde una Actividad a otra usando _Intets_ explícitos con datos extras. Para ello crearemos una clase Persona, 
 rellenaremos sus datos y los enviaremos para que los muestre otra Atividad.
